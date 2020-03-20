@@ -24,5 +24,7 @@ The following guides illustrate how to use some features concretely:
 * [Building a RESTful Web Service with Spring Boot Actuator](https://spring.io/guides/gs/actuator-service/)
 
 ### 扩展
+
+* [Spring Boot集成H2数据库](https://www.jianshu.com/p/d1bdbee2dd8e)
 * [使用 Security 进行安全控制](https://blog.csdn.net/bihansheng2010/article/details/87374578)  
 
